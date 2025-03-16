@@ -1,5 +1,5 @@
 
-.bodoni-moda-<uniquifier> {
+.bodoni-moda{
   font-family: "Bodoni Moda", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -11,7 +11,7 @@ body {
   margin: 0;
   overflow: hidden;
   background-color: #f0f0f0; /* Off-white background */
-  font-family: 'CallingCode-Regular', sans-serif; /* Use your chosen font */
+  font-family: 'Bodoni Moda', serif; /* Use your chosen font */
   position: relative;
   background-image: url('unaliven.gif');
   background-repeat: no-repeat;
