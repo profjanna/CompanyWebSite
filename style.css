@@ -25,6 +25,7 @@ body {
 h1 {
   font-weight: 600;
   text-align: center;
+
 }
 h2 {
   
@@ -36,10 +37,10 @@ p {
   font-family: 'Trebuchet MS', sans-serif;
 }
 #brandCopy{
-  margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
+  top: 50%;
 }
 
 .nav {
@@ -48,6 +49,7 @@ p {
   text-align: center;
   margin: 0;
   padding: 0;
+  top: 70%;
 }
 li {
   color:  #f0f0f0;
