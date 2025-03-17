@@ -10,6 +10,7 @@
 body {
   margin: 0;
   overflow: hidden;
+  color: #26314A;
   background-color: #f0f0f0; /* Off-white background */
   font-family: 'Bodoni Moda', serif; /* Use your chosen font */
   position: relative;
@@ -20,6 +21,7 @@ body {
   background-size: 50%;
 
 }
+
 h1 {
   font-weight: 600;
 
