@@ -51,7 +51,7 @@ p {
   text-align: center;
   margin: 0;
   padding: 0;
-  top: 75%;
+  margin-top: 75%;
 }
 li {
   color:  #f0f0f0;
