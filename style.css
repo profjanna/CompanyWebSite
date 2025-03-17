@@ -64,3 +64,22 @@ li {
   font-size: 20px;
   padding: 20px;
 }
+/* unvisited link */
+a:link {
+  color: #f0f0f0;
+}
+
+/* visited link */
+a:visited {
+  color: #f0f0f0;
+}
+
+/* mouse over link */
+a:hover {
+  color: #9ddbe9;
+}
+
+/* selected link */
+a:active {
+  color: #20a4d7;
+}
