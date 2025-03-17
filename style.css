@@ -21,14 +21,15 @@ body {
 
 }
 h1 {
-  
+  font-weight: 600;
+
 }
 h2 {
   
 }
 h3 {
-  
+  font-family: 'Trebuchet MS', sans-serif;
 }
 p {
-  
+  font-family: 'Trebuchet MS', sans-serif;
 }
