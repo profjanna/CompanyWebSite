@@ -33,13 +33,15 @@ h2 {
 }
 h3 {
   font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 400;
   margin-left: 10%;
 }
 p {
   font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 400;
 }
 #brandCopy{
-
+  
   margin-right: 400px;
   margin-left: 100px;
   margin-top: 50%;
