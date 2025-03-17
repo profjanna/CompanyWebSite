@@ -29,18 +29,19 @@ h1 {
 
 }
 h2 {
-  
+  margin-left: 10%;
 }
 h3 {
   font-family: 'Trebuchet MS', sans-serif;
+  margin-left: 10%;
 }
 p {
   font-family: 'Trebuchet MS', sans-serif;
 }
 #brandCopy{
   margin-bottom: 100px;
-  margin-right: 80px;
-  margin-left: 280px;
+  margin-right: 400px;
+  margin-left: 100px;
   top: 50%;
 }
 
@@ -50,7 +51,7 @@ p {
   text-align: center;
   margin: 0;
   padding: 0;
-  top: 70%;
+  top: 75%;
 }
 li {
   color:  #f0f0f0;
