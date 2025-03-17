@@ -36,8 +36,12 @@ p {
   font-family: 'Trebuchet MS', sans-serif;
 }
 #brandCopy{
-  
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
+
 ul {
   background-color: #26314A; 
   list-style-type: none;
