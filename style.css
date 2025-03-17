@@ -42,7 +42,7 @@ p {
   margin-left: 80px;
 }
 
-ul {
+.nav {
   background-color: #26314A; 
   list-style-type: none;
   text-align: center;
@@ -51,7 +51,7 @@ ul {
 }
 li {
   color:  #f0f0f0;
-    display: inline-block;
+  display: inline-block;
   font-size: 20px;
   padding: 20px;
 }
